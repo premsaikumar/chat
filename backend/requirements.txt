@@ -1,0 +1,9 @@
+express,
+http,
+socket.io,
+mongoose,
+bcrypt,
+jsonwebtoken
+
+
+
